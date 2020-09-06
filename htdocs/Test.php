@@ -95,6 +95,7 @@
 	echo "<br/>Names :<br/>";
 	printNames($names);
 	echo concatenate("Bye"," World");
+	echo concatenate("Hello"," Sherlock");
 	
 	//---------------------------------
 	//Associative array
