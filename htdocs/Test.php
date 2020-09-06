@@ -96,6 +96,7 @@
 	printNames($names);
 	echo concatenate("Bye"," World");
 	
+	//---------------------------------
 	//Associative array
 	//Not working for some reason
 	//$students = array('Topper'=>'Abinash','Smart'=>'Adarsha','Genious'=>'Peter','IdeaSources'=>'Dilip');
@@ -106,6 +107,7 @@
 	//echo students["Topper"]."<br/>";
 	//echo students["Smart"]."<br/>";
 	//echo students["Genious"]."<br/>";
+	//----------------------------------
 ?>
 </html>
 </body>
