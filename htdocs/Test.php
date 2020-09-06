@@ -98,10 +98,11 @@
 	
 	//Associative array
 	//Not working for some reason
-	//$students = array('Topper'=>'Abinash','Smart'=>'Adarsha','Genious'=>'Peter');
+	//$students = array('Topper'=>'Abinash','Smart'=>'Adarsha','Genious'=>'Peter','IdeaSources'=>'Dilip');
 	//$students["Topper"] = "Abinash";
 	//$students["Smart"] = "Adarsha";
 	//$students["Genious"] = "peter";
+	//$students["IdeaSources"] = "Dilip";
 	//echo students["Topper"]."<br/>";
 	//echo students["Smart"]."<br/>";
 	//echo students["Genious"]."<br/>";
